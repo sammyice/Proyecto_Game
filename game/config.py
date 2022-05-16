@@ -1,0 +1,20 @@
+WIDTH = 1000
+HEIGHT = 600
+
+TITLE = "Supera los obstáculos"
+
+BLUE = (248, 251, 255)
+PERSIAN_GREEN = (42, 157, 143)
+HONEYDEW = (223, 243, 228)
+CLARET = (89, 13, 34) 
+BLACK = (0, 0, 0)
+
+PLAYER_GRAV = 0.2
+FPS = 60
+SPEED = 3
+
+MAX_WALLS = 10
+MAX_NAVES = 9
+
+FONT = "Calibry"
+TEXT_POSY = 20
